@@ -4,7 +4,7 @@
 <br>
 <br>
 <p align="center">
-<img src="/image/cryptocurrency.png"/>
+<img src="/cryptocurrency.png"/>
 </p>
 <br>
 <br>
