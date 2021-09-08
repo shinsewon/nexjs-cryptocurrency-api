@@ -1,34 +1,61 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Oing(오잉)
 
-## Getting Started
+#### 'Oing(오잉)'은 프리미엄 레스토랑 추천 및 예약 플랫폼 'Poing'을 참조하여 개발한 프로젝트입니다.
+<br>
+<br>
+<p align="center">
+<img src="/image/cryptocurrency.png"/>
+</p>
+<br>
+<br>
 
-First, run the development server:
+# # 프로젝트 기간 🔥
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+- 2020.01.01 - 2020.01.08(8일)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# # 작업 인원 🧑🏻‍💻
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+- 1명 (Front-End)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+# # 소개 🖋
+- 포잉 앱 분석 : 심플하고 깔끔한 UI를 가졌고 단순하면서도 실용적인이고 필수적인 기능들이 깔끔하게 정리가 잘 되어있는 앱이다.
+- 목표 : 일주일이라는 짧은 기간안에 구현해야하지만, 기능 연습이 아닌 레이아웃부터 하나를 구현하더라도 진짜 클론한다는 생각으로 앱을 100% 구현한다. 
+        완벽하게 다 만들지는 못할지언정 하나를 만들때 최선을 다해 만들어 본다.
+        
+- 기간 : 2021년 1월 1일 (금) ~ 2021년 1월 8일(금), 7일간 진행
+- 개발 : 1인 / [1인 project 개발 후기 Click](https://velog.io/@shin6403/React-Native-Poing-Clone-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+# # 작업 결과물 (Click!) 🎥
+  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&link=https://www.youtube.com/watch?v=gB3BPZcMXv4s)](https://www.youtube.com/watch?v=gB3BPZcMXv4s)
 
-## Learn More
+<div>
+<img src="https://user-images.githubusercontent.com/68217675/104121069-f5d08400-537e-11eb-99a8-0f1d3616db5b.gif" width="200"></img>
+<img src="https://user-images.githubusercontent.com/68217675/104121220-f289c800-537f-11eb-915e-57d4e44ce1d4.gif" width="200"></img>
+<img src="https://user-images.githubusercontent.com/68217675/104121245-1fd67600-5380-11eb-84c4-3458455c8ff5.gif" width="200"></img>
+<img src="https://user-images.githubusercontent.com/68217675/104121300-688e2f00-5380-11eb-970e-fcc67148ed5b.gif" width="200"></img>
+</div>
 
-To learn more about Next.js, take a look at the following resources:
+## # 기술 스택/툴 🛠
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+#### # Front-end
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- HTML
+- JavaScript ES6+
+- Expo
+- Redux
+- Styled Component
+- Snap-Carousel (library)
+- Ratings (library)
+- Git(git rebase), GitHub
 
-## Deploy on Vercel
+## # 구현한 페이지 (혹은 컴포넌트)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- 레이아웃 및 디자인 (카테고리 제외 전체 페이지)
+- carousel을 이용한 슬라이드 배너 (Home 페이지)
+- Navigation을 이용한 스택 및 탭 기능
+- Search 페이지 (검색 기능 - 백엔드 API 없이 MockData로 구현완료)
+- Tiket 페이지 (티켓 슬라이더에 따라 지도 위치 이동 기능 추가)
+- Redux를 이용한 상품 상세 페이지 스택 기능 구현중
+- FlatList를 이용한 상품 리스트 기능
+- Filter, Includes를 이용한 레스토랑 검색 기능
+- 추후 계속 기능 추가 예정.
