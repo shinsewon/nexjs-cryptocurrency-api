@@ -4,7 +4,8 @@
 <br>
 <br>
 <p align="center">
-![cryptocurrency](https://user-images.githubusercontent.com/68217675/132528078-066e1f4e-7bce-43b9-9577-c6350bab1d54.png)
+        <img src="https://user-images.githubusercontent.com/68217675/132528078-066e1f4e-7bce-43b9-9577-c6350bab1d54.png"/>
+
 
 </p>
 <br>
